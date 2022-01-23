@@ -38,13 +38,13 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
-          <DiCss3Full size="3rem" />
+          <DiPython size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Programming</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            tools like Figma
+            HTML, CSS ,JAVASCRIPTS <br />
+            PHP, C#, PYTHON
           </ListParagraph>
         </ListContainer>
       </ListItem>
